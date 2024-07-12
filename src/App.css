@@ -1,0 +1,17 @@
+.loginImgLogo{
+  height: 140px;
+  width: auto;
+}
+
+
+
+@media  (min-width: 576px) and (max-width: 768px) {
+ 
+}
+  
+  
+  @media (max-width: 576px) {
+    .loginImgLogo{
+      height: 100px;
+    }
+  }
